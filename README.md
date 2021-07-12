@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-- :dizzy: I'm currently working on Dragon Event. [@viasly](https://github.com/viasly)
+- :dizzy: I'm currently working on [Dragon Event](https://github.com/viasly)
 - :telescope: I'm currently learning [Flutter](https://github.com/Flutter)
 - :smile: Pronouns: He/Him
 - :mailbox_closed: How to reach me: https://efekurbann.xyz
