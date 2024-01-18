@@ -7,7 +7,7 @@
 - Discord: efekurban
 - [Twitter](https://twitter.com/efekurbann) 
 - [Instagram](https://instagram.com/efekurbann) 
-- [My discord server for chatting and plugin/code support](https://discord.gg/hSn9Nr84CB)
+- [My discord server for chatting and plugin/code support](https://discord.gg/9vcAHQnZsg)
 
 <br>
 
