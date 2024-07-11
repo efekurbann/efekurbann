@@ -11,4 +11,4 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efekurbann&hide=contribs,prs&show_icons=true&theme=tokyonight"</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efekurbann&show_icons=true&show,prs_merged,prs_merged_percentage&theme=tokyonight"</p>
