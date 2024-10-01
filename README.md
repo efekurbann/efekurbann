@@ -2,6 +2,7 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efekurbann&label=Profile%20views&color=0e75b6&style=flat" alt="efekurbann" /> </p>
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=vocolyk0ufbbbhf59w6utfwah&unique={true|1|on|yes}&count=3" alt="efekurbann" />
 
 - 🔭 I’m currently working on [OdinSkyBlock](https://github.com/Thoxia/OdinSkyBlock)
 
